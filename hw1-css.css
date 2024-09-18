@@ -1,0 +1,12 @@
+body {background-color: rgb(31, 116, 128);
+    text-align: center;
+    color: white;
+    list-style-position: inside}
+img {border-radius: 25px; display: block;
+    margin-left: auto;
+    margin-right: auto}
+iframe {display: block;
+    margin-left: auto;
+    margin-right: auto}
+li{padding: 0px;
+    margin: 0px;}
